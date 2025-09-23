@@ -38,7 +38,6 @@ Make sure the following dependencies are installed:
 Install via pip:  
 ```bash
 pip install chromadb pandas requests gradio
-pip install chromadb pandas requests gradio 
 ```
 
 ### External Requirements Ollama (for Llama 3.2 and Nomic embeddings) → https://ollama.ai 
