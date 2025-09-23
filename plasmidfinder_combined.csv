@@ -1,0 +1,548 @@
+Run,STRAND,GENE,DATABASE,Organism,create_date,country,continent,Collection_Date,isolation_source,HOST
+SRR27187197,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,13/10/2023,urine,Homo sapiens
+SRR27187197,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,13/10/2023,urine,Homo sapiens
+SRR27187197,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,13/10/2023,urine,Homo sapiens
+SRR27187197,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,13/10/2023,urine,Homo sapiens
+SRR27187197,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,13/10/2023,urine,Homo sapiens
+SRR23384584,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella variicola,2023-02-09T14:13:00Z,Australia,Oceania,23/02/2020,Rectal swab,Homo sapiens
+SRR23384584,-,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2023-02-09T14:13:00Z,Australia,Oceania,23/02/2020,Rectal swab,Homo sapiens
+SRR23384584,-,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2023-02-09T14:13:00Z,Australia,Oceania,23/02/2020,Rectal swab,Homo sapiens
+SRR23384584,+,IncN_1,plasmidfinder,Klebsiella variicola,2023-02-09T14:13:00Z,Australia,Oceania,23/02/2020,Rectal swab,Homo sapiens
+SRR23384584,+,IncN_1,plasmidfinder,Klebsiella variicola,2023-02-09T14:13:00Z,Australia,Oceania,23/02/2020,Rectal swab,Homo sapiens
+SRR23384701,-,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2023-02-09T14:22:00Z,Australia,Oceania,24/01/2019,Rectal swab,Homo sapiens
+ERR13600750,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:58:00Z,Norway,Europe,2018,blood,
+ERR13600750,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:58:00Z,Norway,Europe,2018,blood,
+ERR13600306,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:00:00Z,Norway,Europe,2016,marine environment,
+ERR13600306,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:00:00Z,Norway,Europe,2016,marine environment,
+ERR13600306,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:00:00Z,Norway,Europe,2016,marine environment,
+SRR27033042,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033042,-,IncX1_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033042,-,IncX3_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033042,-,IncX1_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033042,-,IncX3_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+ERR13600308,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:26:00Z,Norway,Europe,2019,marine environment,
+ERR13600308,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:26:00Z,Norway,Europe,2019,marine environment,
+ERR13600308,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:26:00Z,Norway,Europe,2019,marine environment,
+SRR24952283,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:51:00Z,Japan,Asia,2003,missing,missing
+SRR24952283,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:51:00Z,Japan,Asia,2003,missing,missing
+SRR23384579,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-02-09T14:13:00Z,Australia,Oceania,28/05/2020,Rectal swab,Homo sapiens
+SRR28375009,-,IncR_1,plasmidfinder,Enterobacter hormaechei,2024-03-18T15:22:00Z,USA,North America,09/12/2023,Wound/Abscess,Homo sapiens
+SRR28375009,-,IncHI2A_1,plasmidfinder,Enterobacter hormaechei,2024-03-18T15:22:00Z,USA,North America,09/12/2023,Wound/Abscess,Homo sapiens
+SRR28375009,-,IncR_1,plasmidfinder,Enterobacter hormaechei,2024-03-18T15:22:00Z,USA,North America,09/12/2023,Wound/Abscess,Homo sapiens
+SRR28375009,-,IncR_1,plasmidfinder,Enterobacter hormaechei,2024-03-18T15:22:00Z,USA,North America,09/12/2023,Wound/Abscess,Homo sapiens
+SRR28375009,-,IncHI2A_1,plasmidfinder,Enterobacter hormaechei,2024-03-18T15:22:00Z,USA,North America,09/12/2023,Wound/Abscess,Homo sapiens
+SRR28375009,-,IncHI2A_1,plasmidfinder,Enterobacter hormaechei,2024-03-18T15:22:00Z,USA,North America,09/12/2023,Wound/Abscess,Homo sapiens
+SRR27033037,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-12-04T06:14:00Z,Tunisia,Africa,2021,,
+ERR13600403,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:04:00Z,Norway,Europe,2015,blood,
+SRR19634185,+,Col156_1,plasmidfinder,Escherichia coli,2022-06-13T07:42:00Z,United Kingdom,Europe,2020,,Homo sapiens
+SRR19634185,+,Col156_1,plasmidfinder,Escherichia coli,2022-06-13T07:42:00Z,United Kingdom,Europe,2020,,Homo sapiens
+SRR19634185,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2022-06-13T07:42:00Z,United Kingdom,Europe,2020,,Homo sapiens
+SRR19634185,+,Col156_1,plasmidfinder,Escherichia coli,2022-06-13T07:42:00Z,United Kingdom,Europe,2020,,Homo sapiens
+SRR28375021,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2024-03-18T15:21:00Z,USA,North America,20/01/2024,urine,Homo sapiens
+SRR28375021,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2024-03-18T15:21:00Z,USA,North America,20/01/2024,urine,Homo sapiens
+SRR27187032,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2016,blood culture,Homo sapiens
+SRR27187032,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2016,blood culture,Homo sapiens
+SRR27187032,+,IncFII_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2016,blood culture,Homo sapiens
+ERR13600319,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:02:00Z,Norway,Europe,2020,marine environment,
+ERR13600319,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:02:00Z,Norway,Europe,2020,marine environment,
+ERR12342510,-,IncX1_1,plasmidfinder,Escherichia coli,2023-12-10T09:42:00Z,uncalculated,uncalculated,not collected,,
+ERR13600291,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:24:00Z,Norway,Europe,2018,Cecum,
+SRR27187025,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:49:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187025,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:49:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+ERR13600380,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:13:00Z,Norway,Europe,2005,blood,
+SRR27187199,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,09/10/2023,urine,Homo sapiens
+SRR27187199,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-12-12T15:04:00Z,USA,North America,09/10/2023,urine,Homo sapiens
+ERR13600351,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:01:00Z,Norway,Europe,2020,Caecal,
+ERR13600351,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:01:00Z,Norway,Europe,2020,Caecal,
+ERR13600457,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:01:00Z,Norway,Europe,2009,blood,
+ERR13600457,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:01:00Z,Norway,Europe,2009,blood,
+ERR13600457,-,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:01:00Z,Norway,Europe,2009,blood,
+SRR27187035,+,IncFII_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2015,blood culture,Homo sapiens
+SRR27187035,+,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2015,blood culture,Homo sapiens
+ERR13600436,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:42:00Z,Norway,Europe,2001,blood,
+ERR13600278,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:26:00Z,Norway,Europe,2018,Cecum,
+ERR13600278,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:26:00Z,Norway,Europe,2018,Cecum,
+ERR13600278,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:26:00Z,Norway,Europe,2018,Cecum,
+ERR13600278,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:26:00Z,Norway,Europe,2018,Cecum,
+SRR23384583,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2023-02-09T14:15:00Z,Australia,Oceania,07/03/2020,respiratory,Homo sapiens
+SRR23384583,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2023-02-09T14:15:00Z,Australia,Oceania,07/03/2020,respiratory,Homo sapiens
+SRR23384583,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2023-02-09T14:15:00Z,Australia,Oceania,07/03/2020,respiratory,Homo sapiens
+ERR13600539,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2015,urine,
+SRR23384612,-,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:12:00Z,Australia,Oceania,30/12/2011,other,Homo sapiens
+SRR23384612,-,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:12:00Z,Australia,Oceania,30/12/2011,other,Homo sapiens
+SRR23384591,+,IncFII(Yp)_1_Yersenia,plasmidfinder,Klebsiella michiganensis,2023-02-09T14:27:00Z,Australia,Oceania,21/08/2019,Rectal swab,Homo sapiens
+ERR13600482,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:39:00Z,Norway,Europe,2014,blood,
+SRR27187028,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:47:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+SRR27187028,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:47:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+SRR27187028,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:47:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+SRR27033028,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-04T06:09:00Z,Tunisia,Africa,2021,,
+SRR27033028,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:09:00Z,Tunisia,Africa,2021,,
+ERR13600313,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2019,marine environment,
+ERR13600313,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2019,marine environment,
+ERR13600313,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2019,marine environment,
+ERR11861366,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-02T01:55:00Z,Netherlands,Europe,2016,feces,
+ERR11861366,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T01:55:00Z,Netherlands,Europe,2016,feces,
+ERR11861366,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-02T01:55:00Z,Netherlands,Europe,2016,feces,
+ERR11861366,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T01:55:00Z,Netherlands,Europe,2016,feces,
+ERR11861366,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-02T01:55:00Z,Netherlands,Europe,2016,feces,
+ERR13600272,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:30:00Z,Norway,Europe,2018,Cecum,
+ERR13600449,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:28:00Z,Norway,Europe,2007,blood,
+SRR27187034,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2015,blood culture,Homo sapiens
+SRR27187034,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2015,blood culture,Homo sapiens
+ERR13600471,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:26:00Z,Norway,Europe,2012,blood,
+SRR27187203,-,IncN3_1,plasmidfinder,Citrobacter amalonaticus,2023-12-12T15:04:00Z,USA,North America,11/10/2023,stool,Homo sapiens
+ERR13600394,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:20:00Z,Norway,Europe,2015,blood,
+ERR13600394,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:20:00Z,Norway,Europe,2015,blood,
+ERR13600394,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:20:00Z,Norway,Europe,2015,blood,
+SRR28587164,-,IncFIB(K)_1_Kpn3,plasmidfinder,Escherichia coli,2024-04-08T11:27:00Z,Switzerland,Europe,2020,missing,Homo sapiens
+SRR23384658,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella variicola,2023-02-09T14:23:00Z,Australia,Oceania,14/06/2018,Skin and soft tissue,Homo sapiens
+ERR13600672,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:47:00Z,Norway,Europe,2017,blood,
+ERR13600672,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:47:00Z,Norway,Europe,2017,blood,
+SRR27187026,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:48:00Z,Hungary,Europe,2015,blood culture,Homo sapiens
+SRR27187026,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:48:00Z,Hungary,Europe,2015,blood culture,Homo sapiens
+ERR13600426,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:35:00Z,Norway,Europe,2001,blood,
+ERR13600426,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:35:00Z,Norway,Europe,2001,blood,
+ERR11861384,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-02T12:47:00Z,Netherlands,Europe,2021,feces,
+ERR11861384,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-02T12:47:00Z,Netherlands,Europe,2021,feces,
+ERR13600362,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:24:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+ERR13600362,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:24:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+ERR13600362,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:24:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+SRR27187041,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:50:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187041,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:50:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27033046,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033046,-,IncY_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033046,-,IncX1_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+ERR13600402,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:37:00Z,Norway,Europe,2015,blood,
+SRR27187039,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:49:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187039,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:49:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+ERR12342461,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-14T13:37:00Z,uncalculated,uncalculated,not collected,,
+ERR12342461,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-14T13:37:00Z,uncalculated,uncalculated,not collected,,
+ERR12342461,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-14T13:37:00Z,uncalculated,uncalculated,not collected,,
+ERR13600309,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella quasivariicola,2024-09-01T01:25:00Z,Norway,Europe,2019,marine environment,
+ERR13600309,+,Col440I_1,plasmidfinder,Klebsiella quasivariicola,2024-09-01T01:25:00Z,Norway,Europe,2019,marine environment,
+SRR23384523,+,IncFIB(AP001918)_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:21:00Z,Australia,Oceania,07/07/2004,urine,Homo sapiens
+SRR23384532,-,IncN_1,plasmidfinder,Klebsiella aerogenes,2023-02-09T14:16:00Z,Australia,Oceania,09/10/2020,urine,Homo sapiens
+SRR23384657,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella michiganensis,2023-02-09T14:15:00Z,Australia,Oceania,04/06/2018,urine,Homo sapiens
+SRR23384665,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-02-09T14:17:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+SRR23384665,+,Col156_1,plasmidfinder,Escherichia coli,2023-02-09T14:17:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+SRR23384665,+,Col156_1,plasmidfinder,Escherichia coli,2023-02-09T14:17:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+SRR23384665,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-02-09T14:17:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+ERR13600650,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:59:00Z,Norway,Europe,2017,blood,
+ERR13600650,+,IncFIB(pKPHS1)_1_pKPHS1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:59:00Z,Norway,Europe,2017,blood,
+ERR13600650,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:59:00Z,Norway,Europe,2017,blood,
+SRR23384622,-,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:11:00Z,Australia,Oceania,26/02/2013,Skin and soft tissue,Homo sapiens
+ERR13600383,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella variicola,2024-09-01T01:11:00Z,Norway,Europe,2015,blood,
+ERR13600383,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2024-09-01T01:11:00Z,Norway,Europe,2015,blood,
+ERR13600383,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2024-09-01T01:11:00Z,Norway,Europe,2015,blood,
+ERR13600383,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2024-09-01T01:11:00Z,Norway,Europe,2015,blood,
+ERR13600383,+,IncFII_1_pKP91,plasmidfinder,Klebsiella variicola,2024-09-01T01:11:00Z,Norway,Europe,2015,blood,
+ERR13600383,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella variicola,2024-09-01T01:11:00Z,Norway,Europe,2015,blood,
+ERR13600486,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:39:00Z,Norway,Europe,2014,blood,
+SRR27187037,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187037,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+ERR13600458,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:32:00Z,Norway,Europe,2009,blood,
+ERR13600458,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:32:00Z,Norway,Europe,2009,blood,
+ERR13600458,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:32:00Z,Norway,Europe,2009,blood,
+SRR26902467,+,IncFIB(pECLA)_1_pECLA,plasmidfinder,Enterobacter roggenkampii,2023-11-21T15:17:00Z,Canada,North America,2022,feces,Homo sapiens
+SRR26902467,+,IncR_1,plasmidfinder,Enterobacter roggenkampii,2023-11-21T15:17:00Z,Canada,North America,2022,feces,Homo sapiens
+SRR27187023,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:44:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187023,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:44:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+ERR13600273,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2018,Cecum,
+ERR13600273,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2018,Cecum,
+ERR13600413,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:06:00Z,Norway,Europe,2015,blood,
+SRR28375022,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2024-03-18T15:21:00Z,USA,North America,30/12/2023,blood,Homo sapiens
+SRR28375022,-,ColKP3_1,plasmidfinder,Escherichia coli,2024-03-18T15:21:00Z,USA,North America,30/12/2023,blood,Homo sapiens
+SRR28375022,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2024-03-18T15:21:00Z,USA,North America,30/12/2023,blood,Homo sapiens
+SRR28375022,-,IncFIA_1,plasmidfinder,Escherichia coli,2024-03-18T15:21:00Z,USA,North America,30/12/2023,blood,Homo sapiens
+ERR13600318,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2020,marine environment,
+ERR13600318,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2020,marine environment,
+ERR13600318,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2020,marine environment,
+ERR13600318,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2020,marine environment,
+ERR13600318,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2020,marine environment,
+ERR13600405,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2015,blood,
+ERR13600405,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2015,blood,
+ERR13600405,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2015,blood,
+ERR13600391,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:30:00Z,Norway,Europe,2015,blood,
+ERR13600391,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:30:00Z,Norway,Europe,2015,blood,
+ERR13600391,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:30:00Z,Norway,Europe,2015,blood,
+ERR11861391,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-02T03:19:00Z,Netherlands,Europe,2021,feces,
+ERR13600547,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:36:00Z,Norway,Europe,2013,urine,
+SRR27033036,-,IncY_1,plasmidfinder,Escherichia coli,2023-12-04T06:11:00Z,Tunisia,Africa,2021,,
+SRR27033036,-,IncY_1,plasmidfinder,Escherichia coli,2023-12-04T06:11:00Z,Tunisia,Africa,2021,,
+ERR13600629,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2017,blood,
+ERR13600629,+,IncFII(pCRY)_1_pCRY,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2017,blood,
+ERR13600355,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:10:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+SRR27187016,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:43:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187016,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:43:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187016,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:43:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR28587159,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-04-08T11:25:00Z,Switzerland,Europe,2020,missing,Homo sapiens
+SRR28587159,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-04-08T11:25:00Z,Switzerland,Europe,2020,missing,Homo sapiens
+SRR28587159,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-04-08T11:25:00Z,Switzerland,Europe,2020,missing,Homo sapiens
+SRR28587159,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-04-08T11:25:00Z,Switzerland,Europe,2020,missing,Homo sapiens
+SRR27033026,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-12-04T06:09:00Z,Tunisia,Africa,2021,,
+SRR27033026,-,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2023-12-04T06:09:00Z,Tunisia,Africa,2021,,
+ERR13600681,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:10:00Z,Norway,Europe,2018,blood,
+ERR13600681,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:10:00Z,Norway,Europe,2018,blood,
+ERR13600489,-,IncFII_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:15:00Z,Norway,Europe,2015,blood,
+ERR13600489,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:15:00Z,Norway,Europe,2015,blood,
+SRR23384636,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:13:00Z,Australia,Oceania,02/03/2015,urine,Homo sapiens
+SRR23384636,-,IncFIB(pB171)_1_pB171,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:13:00Z,Australia,Oceania,02/03/2015,urine,Homo sapiens
+SRR23384636,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:13:00Z,Australia,Oceania,02/03/2015,urine,Homo sapiens
+ERR13600389,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:18:00Z,Norway,Europe,2015,blood,
+SRR27187014,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:42:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187014,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:42:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR23384655,-,IncHI2_1,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:23:00Z,Australia,Oceania,04/06/2018,urine,Homo sapiens
+SRR23384655,-,RepA_1_pKPC-CAV1321,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:23:00Z,Australia,Oceania,04/06/2018,urine,Homo sapiens
+SRR23384655,+,IncHI2A_1,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:23:00Z,Australia,Oceania,04/06/2018,urine,Homo sapiens
+SRR27187042,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli O157:H7 str. EC10,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187042,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli O157:H7 str. EC10,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187042,+,Col156_1,plasmidfinder,Escherichia coli O157:H7 str. EC10,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187042,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli O157:H7 str. EC10,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+ERR13600466,+,IncA/C2_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:08:00Z,Norway,Europe,2011,blood,
+ERR13600481,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:11:00Z,Norway,Europe,2014,blood,
+ERR13600303,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:40:00Z,Norway,Europe,2016,marine environment,
+ERR13600523,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:08:00Z,Norway,Europe,2009,blood,
+ERR13600523,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:08:00Z,Norway,Europe,2009,blood,
+ERR13600523,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:08:00Z,Norway,Europe,2009,blood,
+ERR13600314,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:05:00Z,Norway,Europe,2019,marine environment,
+ERR13600314,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:05:00Z,Norway,Europe,2019,marine environment,
+ERR13600314,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:05:00Z,Norway,Europe,2019,marine environment,
+SRR27187033,+,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2016,blood culture,Homo sapiens
+ERR13600425,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:37:00Z,Norway,Europe,2001,blood,
+ERR13600425,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:37:00Z,Norway,Europe,2001,blood,
+ERR11861374,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+ERR11861374,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+ERR11861374,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+ERR11861374,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+ERR11861374,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+SRR23384574,+,IncR_1,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:15:00Z,Australia,Oceania,23/06/2020,Sink swab,Homo sapiens
+ERR13600286,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:45:00Z,Norway,Europe,2018,Cecum,
+ERR13600286,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:45:00Z,Norway,Europe,2018,Cecum,
+ERR13600612,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2018,blood,
+ERR13600612,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2018,blood,
+ERR13600612,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2018,blood,
+ERR13600663,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:01:00Z,Norway,Europe,2018,blood,
+SRR28375012,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:22:00Z,USA,North America,06/12/2023,urine,Homo sapiens
+ERR11861386,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-02T18:34:00Z,Netherlands,Europe,2021,feces,
+SRR27033041,+,IncX4_1,plasmidfinder,Escherichia coli,2023-12-04T06:11:00Z,Tunisia,Africa,2021,,
+SRR27033041,+,IncX4_1,plasmidfinder,Escherichia coli,2023-12-04T06:11:00Z,Tunisia,Africa,2021,,
+SRR27033041,-,IncFII_1,plasmidfinder,Escherichia coli,2023-12-04T06:11:00Z,Tunisia,Africa,2021,,
+ERR13600577,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2009,urine,
+ERR13600577,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2009,urine,
+SRR23387321,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:54:00Z,USA,North America,14/11/2022,Rectal Swab,Homo sapiens
+SRR23387321,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:54:00Z,USA,North America,14/11/2022,Rectal Swab,Homo sapiens
+SRR23387321,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:54:00Z,USA,North America,14/11/2022,Rectal Swab,Homo sapiens
+SRR23387321,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:54:00Z,USA,North America,14/11/2022,Rectal Swab,Homo sapiens
+SRR23384611,+,IncFII(pECLA)_1_pECLA,plasmidfinder,Enterobacter asburiae,2023-02-09T14:12:00Z,Australia,Oceania,15/05/2010,other,Homo sapiens
+SRR28587153,+,IncFII(Yp)_1_Yersenia,plasmidfinder,Citrobacter farmeri,2024-04-08T11:25:00Z,Switzerland,Europe,2022,missing,Homo sapiens
+SRR28375007,-,IncA/C2_1,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:23:00Z,USA,North America,14/12/2023,Wound/Abscess,Homo sapiens
+SRR27033027,+,IncFIB(K)_1_Kpn3,plasmidfinder,Escherichia coli,2023-12-04T06:09:00Z,Tunisia,Africa,2021,,
+ERR13600301,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2016,marine environment,
+ERR12342516,+,IncB/O/K/Z_2,plasmidfinder,Escherichia coli,2023-12-07T03:12:00Z,uncalculated,uncalculated,not collected,,
+ERR12342516,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-07T03:12:00Z,uncalculated,uncalculated,not collected,,
+ERR13600307,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2016,marine environment,
+ERR13600307,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2016,marine environment,
+ERR13600307,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2016,marine environment,
+ERR13600307,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2016,marine environment,
+ERR13600307,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2016,marine environment,
+SRR27033043,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-12-04T06:12:00Z,Tunisia,Africa,2021,,
+ERR13600647,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:58:00Z,Norway,Europe,2017,blood,
+ERR13600556,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,urine,
+ERR13600556,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,urine,
+ERR13600556,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,urine,
+ERR13600556,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,urine,
+SRR23384664,+,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:31:00Z,Australia,Oceania,11/12/2018,Rectal swab,Homo sapiens
+SRR23384664,+,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:31:00Z,Australia,Oceania,11/12/2018,Rectal swab,Homo sapiens
+SRR23384785,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-02-09T14:21:00Z,Australia,Oceania,26/06/2006,blood,Homo sapiens
+SRR23387322,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:53:00Z,USA,North America,05/11/2022,urine,Homo sapiens
+SRR23387322,+,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:53:00Z,USA,North America,05/11/2022,urine,Homo sapiens
+SRR23387322,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:53:00Z,USA,North America,05/11/2022,urine,Homo sapiens
+SRR23387322,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:53:00Z,USA,North America,05/11/2022,urine,Homo sapiens
+SRR23387322,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T18:53:00Z,USA,North America,05/11/2022,urine,Homo sapiens
+ERR13600400,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:05:00Z,Norway,Europe,2015,blood,
+ERR13600400,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:05:00Z,Norway,Europe,2015,blood,
+SRR23384661,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella variicola,2023-02-09T14:21:00Z,Australia,Oceania,06/08/2018,Rectal swab,Homo sapiens
+SRR23384661,-,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella variicola,2023-02-09T14:21:00Z,Australia,Oceania,06/08/2018,Rectal swab,Homo sapiens
+SRR23384661,-,IncFII(p14)_1_p14,plasmidfinder,Klebsiella variicola,2023-02-09T14:21:00Z,Australia,Oceania,06/08/2018,Rectal swab,Homo sapiens
+SRR23384633,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:13:00Z,Australia,Oceania,27/08/2013,other,Homo sapiens
+SRR24952276,+,IncFIB(pENTAS01)_1_pENTAS01,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncFIB(pENTAS01)_1_pENTAS01,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncFIB(pENTAS01)_1_pENTAS01,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncFIB(pENTAS01)_1_pENTAS01,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,-,IncFII_1,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncFIB(pENTAS01)_1_pENTAS01,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,-,IncFII_1,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncFIB(pENTAS01)_1_pENTAS01,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncX4_2,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR24952276,+,IncX4_2,plasmidfinder,Escherichia coli,2023-06-16T20:56:00Z,Japan,Asia,2010,missing,missing
+SRR23291424,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-02-02T10:52:00Z,USA,North America,2021,sputum,Homo sapiens
+ERR13600461,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:51:00Z,Norway,Europe,2009,blood,
+SRR23291426,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-02-04T11:35:00Z,USA,North America,2020,urine,Homo sapiens
+SRR27033030,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-12-04T06:13:00Z,Tunisia,Africa,2021,,
+ERR13600434,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:23:00Z,Norway,Europe,2001,blood,
+SRR27033024,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033024,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR23384666,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella grimontii,2023-02-09T14:16:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+SRR23384666,-,IncN_1,plasmidfinder,Klebsiella grimontii,2023-02-09T14:16:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+SRR23384666,-,IncN_1,plasmidfinder,Klebsiella grimontii,2023-02-09T14:16:00Z,Australia,Oceania,20/12/2018,Rectal swab,Homo sapiens
+ERR13600300,-,repA_2_pKPC-2,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:49:00Z,Norway,Europe,2016,marine environment,
+ERR13600300,-,repA_2_pKPC-2,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:49:00Z,Norway,Europe,2016,marine environment,
+ERR13600300,-,repA_2_pKPC-2,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:49:00Z,Norway,Europe,2016,marine environment,
+ERR13600300,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:49:00Z,Norway,Europe,2016,marine environment,
+ERR13600585,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:33:00Z,Norway,Europe,2017,blood,
+SRR27033039,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033039,-,IncY_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR23384578,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:14:00Z,Australia,Oceania,28/05/2020,Rectal swab,Homo sapiens
+ERR13600463,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:37:00Z,Norway,Europe,2010,blood,
+SRR23384601,-,IncFII(pECLA)_1_pECLA,plasmidfinder,Enterobacter asburiae,2023-02-09T14:15:00Z,Australia,Oceania,04/06/2019,Rectal swab,Homo sapiens
+ERR13600659,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2017,blood,
+ERR13600659,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2017,blood,
+SRR23384656,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+SRR23384656,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:24:00Z,Australia,Oceania,27/05/2018,Rectal swab,Homo sapiens
+ERR13600785,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2015,feces,
+ERR13600785,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2015,feces,
+ERR13600446,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2006,blood,
+ERR13600444,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:58:00Z,Norway,Europe,2005,blood,
+SRR23384708,+,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:19:00Z,Australia,Oceania,28/05/2019,Rectal swab,Homo sapiens
+SRR23384708,+,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:19:00Z,Australia,Oceania,28/05/2019,Rectal swab,Homo sapiens
+SRR27187030,-,IncFII_1,plasmidfinder,Escherichia coli,2023-12-12T14:49:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+SRR27187031,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:47:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187022,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187022,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR23290059,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-01-31T13:16:00Z,USA,North America,2022,missing,
+SRR23290059,-,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2023-01-31T13:16:00Z,USA,North America,2022,missing,
+SRR28370696,+,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2024-03-18T09:37:00Z,uncalculated,uncalculated,missing,,Homo sapiens
+ERR13600326,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2019,faeces,
+ERR13600326,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2019,faeces,
+ERR13600497,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2005,blood,
+ERR13600497,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2005,blood,
+SRR27187015,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:42:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187015,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:42:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187015,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:42:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR23384628,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:21:00Z,Australia,Oceania,26/11/2014,other,Homo sapiens
+SRR23384628,-,IncFIB(pB171)_1_pB171,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:21:00Z,Australia,Oceania,26/11/2014,other,Homo sapiens
+SRR23384628,+,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:21:00Z,Australia,Oceania,26/11/2014,other,Homo sapiens
+SRR23384628,+,Col440I_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:21:00Z,Australia,Oceania,26/11/2014,other,Homo sapiens
+ERR13600279,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:29:00Z,Norway,Europe,2018,Cecum,
+ERR13600279,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:29:00Z,Norway,Europe,2018,Cecum,
+ERR13600279,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:29:00Z,Norway,Europe,2018,Cecum,
+ERR13600707,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:02:00Z,Norway,Europe,2017,blood,
+ERR13600707,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:02:00Z,Norway,Europe,2017,blood,
+SRR23384605,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:25:00Z,Australia,Oceania,12/04/2019,blood,Homo sapiens
+SRR23384605,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:25:00Z,Australia,Oceania,12/04/2019,blood,Homo sapiens
+SRR23384605,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:25:00Z,Australia,Oceania,12/04/2019,blood,Homo sapiens
+SRR27187021,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:41:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187021,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:41:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187021,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:41:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187021,+,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:41:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+SRR27187021,+,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:41:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+ERR13600790,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:59:00Z,Norway,Europe,2015,feces,
+SRR28375020,+,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:21:00Z,USA,North America,24/01/2023,urine,Homo sapiens
+SRR27187024,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:44:00Z,Hungary,Europe,2018,blood culture,Homo sapiens
+ERR11861364,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-05T07:42:00Z,Netherlands,Europe,2016,feces,
+ERR11861364,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-05T07:42:00Z,Netherlands,Europe,2016,feces,
+ERR11861364,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-05T07:42:00Z,Netherlands,Europe,2016,feces,
+ERR11861364,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-05T07:42:00Z,Netherlands,Europe,2016,feces,
+ERR13600399,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:17:00Z,Norway,Europe,2015,blood,
+SRR27187040,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:43:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+ERR13600697,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:39:00Z,Norway,Europe,2017,blood,
+ERR13600485,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:22:00Z,Norway,Europe,2014,blood,
+ERR13600485,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:22:00Z,Norway,Europe,2014,blood,
+ERR13600485,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:22:00Z,Norway,Europe,2014,blood,
+ERR13600492,-,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:29:00Z,Norway,Europe,2005,blood,
+ERR13600492,-,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:29:00Z,Norway,Europe,2005,blood,
+ERR13600492,-,IncFIA(HI1)_1_HI1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:29:00Z,Norway,Europe,2005,blood,
+ERR11861385,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-05T07:40:00Z,Netherlands,Europe,2021,feces,
+ERR11861385,+,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-05T07:40:00Z,Netherlands,Europe,2021,feces,
+ERR13600682,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:03:00Z,Norway,Europe,2018,blood,
+SRR23384783,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:26:00Z,Australia,Oceania,09/02/2007,other,Homo sapiens
+ERR13600477,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:46:00Z,Norway,Europe,2013,blood,
+ERR11861383,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+ERR11861383,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-06T02:34:00Z,Netherlands,Europe,2021,feces,
+SRR24952275,-,p0111_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,-,p0111_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,+,IncHI1B(CIT)_1_pNDM-CIT,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952275,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR23384594,-,IncR_1,plasmidfinder,Citrobacter freundii,2023-02-09T14:20:00Z,Australia,Oceania,21/08/2019,Rectal swab,Homo sapiens
+SRR23384594,+,IncN_1,plasmidfinder,Citrobacter freundii,2023-02-09T14:20:00Z,Australia,Oceania,21/08/2019,Rectal swab,Homo sapiens
+SRR23384594,+,IncN_1,plasmidfinder,Citrobacter freundii,2023-02-09T14:20:00Z,Australia,Oceania,21/08/2019,Rectal swab,Homo sapiens
+ERR11861377,-,IncX3_1,plasmidfinder,Escherichia coli,2023-12-02T16:01:00Z,Netherlands,Europe,2021,feces,
+ERR13600572,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:39:00Z,Norway,Europe,2009,urine,
+ERR13600572,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:39:00Z,Norway,Europe,2009,urine,
+ERR13600572,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:39:00Z,Norway,Europe,2009,urine,
+ERR13600304,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2016,marine environment,
+ERR13600304,+,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2016,marine environment,
+ERR13600304,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2016,marine environment,
+ERR13600304,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:07:00Z,Norway,Europe,2016,marine environment,
+SRR23384625,-,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:19:00Z,Australia,Oceania,28/06/2014,blood,Homo sapiens
+SRR23384625,-,IncFIB(K)_1_Kpn3,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:19:00Z,Australia,Oceania,28/06/2014,blood,Homo sapiens
+ERR13600815,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2015,feces,
+ERR13600815,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2015,feces,
+ERR13600815,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2015,feces,
+SRR27187029,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+SRR27187029,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+SRR27187029,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2017,blood culture,Homo sapiens
+ERR13600407,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:00:00Z,Norway,Europe,2015,blood,
+ERR13600407,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:00:00Z,Norway,Europe,2015,blood,
+ERR13600407,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:00:00Z,Norway,Europe,2015,blood,
+ERR13600488,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:03:00Z,Norway,Europe,2015,blood,
+ERR13600488,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:03:00Z,Norway,Europe,2015,blood,
+SRR27187036,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187036,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187036,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:46:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+ERR13600541,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2012,urine,
+ERR13600541,+,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2012,urine,
+ERR13600541,+,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2012,urine,
+ERR13600541,+,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:35:00Z,Norway,Europe,2012,urine,
+ERR13600427,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:33:00Z,Norway,Europe,2001,blood,
+ERR13600427,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:33:00Z,Norway,Europe,2001,blood,
+ERR13600783,+,IncFIB(pKPHS1)_1_pKPHS1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2015,feces,
+ERR13600783,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:34:00Z,Norway,Europe,2015,feces,
+ERR11861381,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-02T16:03:00Z,Netherlands,Europe,2021,feces,
+SRR27187043,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+ERR12342507,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-10T05:43:00Z,uncalculated,uncalculated,not collected,,
+ERR13600490,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:12:00Z,Norway,Europe,2015,blood,
+SRR23291423,-,IncFIB(pB171)_1_pB171,plasmidfinder,Escherichia coli,2024-01-31T21:08:00Z,USA,North America,2021,blood,Homo sapiens
+SRR23291423,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2024-01-31T21:08:00Z,USA,North America,2021,blood,Homo sapiens
+SRR24952284,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-06-16T20:51:00Z,Japan,Asia,2003,missing,missing
+SRR24952284,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-06-16T20:51:00Z,Japan,Asia,2003,missing,missing
+SRR23384602,-,IncX1_1,plasmidfinder,Escherichia coli,2023-02-09T14:21:00Z,Australia,Oceania,28/05/2019,Rectal swab,Homo sapiens
+SRR23384602,-,IncX1_1,plasmidfinder,Escherichia coli,2023-02-09T14:21:00Z,Australia,Oceania,28/05/2019,Rectal swab,Homo sapiens
+SRR23384602,-,IncX1_1,plasmidfinder,Escherichia coli,2023-02-09T14:21:00Z,Australia,Oceania,28/05/2019,Rectal swab,Homo sapiens
+SRR28375018,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:25:00Z,USA,North America,27/01/2024,urine,Homo sapiens
+SRR28375018,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:25:00Z,USA,North America,27/01/2024,urine,Homo sapiens
+SRR28375018,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:25:00Z,USA,North America,27/01/2024,urine,Homo sapiens
+SRR28375018,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-03-18T15:25:00Z,USA,North America,27/01/2024,urine,Homo sapiens
+ERR11861376,-,IncB/O/K/Z_1,plasmidfinder,Escherichia coli,2023-12-05T06:15:00Z,Netherlands,Europe,2021,feces,
+ERR13600455,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2008,blood,
+ERR13600455,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2008,blood,
+ERR13600455,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2008,blood,
+ERR13600455,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2008,blood,
+ERR13600455,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2008,blood,
+ERR13600455,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2008,blood,
+ERR13600676,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:44:00Z,Norway,Europe,2017,blood,
+ERR13600293,+,IncFIC(FII)_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:31:00Z,Norway,Europe,2018,Cecum,
+ERR13600395,+,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:32:00Z,Norway,Europe,2015,blood,
+ERR11861371,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T14:57:00Z,Netherlands,Europe,2021,feces,
+ERR12342460,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-10T05:43:00Z,uncalculated,uncalculated,not collected,,
+ERR12342460,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-10T05:43:00Z,uncalculated,uncalculated,not collected,,
+ERR13600787,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2015,feces,
+ERR13600787,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2015,feces,
+ERR13600787,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:38:00Z,Norway,Europe,2015,feces,
+SRR27187198,+,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T15:01:00Z,USA,North America,18/10/2023,urine,Homo sapiens
+SRR27187198,+,IncI_Gamma_1,plasmidfinder,Escherichia coli,2023-12-12T15:01:00Z,USA,North America,18/10/2023,urine,Homo sapiens
+ERR13600737,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:33:00Z,Norway,Europe,2017,blood,
+ERR13600737,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:33:00Z,Norway,Europe,2017,blood,
+SRR23387325,+,IncFII(pECLA)_1_pECLA,plasmidfinder,Enterobacter asburiae,2023-02-09T18:49:00Z,USA,North America,16/11/2022,Rectal Swab,Homo sapiens
+ERR13600616,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:43:00Z,Norway,Europe,2017,blood,
+ERR13600616,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:43:00Z,Norway,Europe,2017,blood,
+ERR13600580,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:37:00Z,Norway,Europe,2017,blood,
+ERR12342506,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-10T11:20:00Z,uncalculated,uncalculated,not collected,,
+SRR28604139,-,IncFII_1,plasmidfinder,Shigella sonnei,2024-04-09T20:25:00Z,Brazil,South America,2001,stool sample,Homo sapiens
+SRR28604139,-,Col156_1,plasmidfinder,Shigella sonnei,2024-04-09T20:25:00Z,Brazil,South America,2001,stool sample,Homo sapiens
+SRR28604139,-,Col156_1,plasmidfinder,Shigella sonnei,2024-04-09T20:25:00Z,Brazil,South America,2001,stool sample,Homo sapiens
+SRR28604139,-,Col156_1,plasmidfinder,Shigella sonnei,2024-04-09T20:25:00Z,Brazil,South America,2001,stool sample,Homo sapiens
+SRR28604139,-,Col156_1,plasmidfinder,Shigella sonnei,2024-04-09T20:25:00Z,Brazil,South America,2001,stool sample,Homo sapiens
+SRR28604139,-,Col156_1,plasmidfinder,Shigella sonnei,2024-04-09T20:25:00Z,Brazil,South America,2001,stool sample,Homo sapiens
+ERR13600387,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:30:00Z,Norway,Europe,2015,blood,
+ERR13600487,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2015,blood,
+ERR13600487,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:28:00Z,Norway,Europe,2015,blood,
+SRR28375027,-,IncFIC(FII)_1,plasmidfinder,Shigella sonnei,2024-03-18T15:23:00Z,USA,North America,20/12/2023,blood,Homo sapiens
+SRR28375027,+,IncFIA_1,plasmidfinder,Shigella sonnei,2024-03-18T15:23:00Z,USA,North America,20/12/2023,blood,Homo sapiens
+SRR28375027,-,IncFIB(AP001918)_1,plasmidfinder,Shigella sonnei,2024-03-18T15:23:00Z,USA,North America,20/12/2023,blood,Homo sapiens
+ERR13600462,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:26:00Z,Norway,Europe,2010,blood,
+ERR13600442,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2001,blood,
+ERR13600442,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2001,blood,
+ERR13600442,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:19:00Z,Norway,Europe,2001,blood,
+ERR11861367,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T21:10:00Z,Netherlands,Europe,2016,feces,
+ERR13600439,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:33:00Z,Norway,Europe,2001,blood,
+ERR13600439,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:33:00Z,Norway,Europe,2001,blood,
+ERR13600439,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:33:00Z,Norway,Europe,2001,blood,
+SRR27187956,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T16:07:00Z,USA,North America,2023,stool,Homo sapiens
+ERR11861389,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T18:33:00Z,Netherlands,Europe,2021,feces,
+ERR13600808,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:57:00Z,Norway,Europe,2015,feces,
+ERR13600808,-,IncR_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:57:00Z,Norway,Europe,2015,feces,
+ERR13600352,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2020,gizzard,
+ERR13600352,-,IncFII_1_pKP91,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:09:00Z,Norway,Europe,2020,gizzard,
+ERR13600299,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:10:00Z,Norway,Europe,2016,marine environment,
+ERR13600828,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,feces,
+ERR11861379,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T15:00:00Z,Netherlands,Europe,2021,feces,
+ERR11861379,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T15:00:00Z,Netherlands,Europe,2021,feces,
+ERR11861379,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-02T15:00:00Z,Netherlands,Europe,2021,feces,
+ERR11861379,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-02T15:00:00Z,Netherlands,Europe,2021,feces,
+ERR11861379,+,ColRNAI_1,plasmidfinder,Escherichia coli,2023-12-02T15:00:00Z,Netherlands,Europe,2021,feces,
+ERR13600331,+,IncFIC(FII)_1,plasmidfinder,Klebsiella pneumoniae,2024-08-31T06:01:00Z,Norway,Europe,2020,Caecal,
+ERR13600460,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:17:00Z,Norway,Europe,2009,blood,
+SRR27187038,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-12T14:47:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR23387323,+,IncFII(p14)_1_p14,plasmidfinder,Klebsiella grimontii,2023-02-09T18:50:00Z,USA,North America,28/11/2022,skin,Homo sapiens
+SRR23387323,+,IncFII(p14)_1_p14,plasmidfinder,Klebsiella grimontii,2023-02-09T18:50:00Z,USA,North America,28/11/2022,skin,Homo sapiens
+ERR13600277,-,IncFIC(FII)_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:33:00Z,Norway,Europe,2018,Cecum,
+ERR13600354,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella variicola subsp. variicola,2024-08-31T01:47:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+ERR13600474,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:06:00Z,Norway,Europe,2013,blood,
+ERR13600469,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T05:44:00Z,Norway,Europe,2012,blood,
+ERR13600734,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:01:00Z,Norway,Europe,2017,blood,
+ERR13600734,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:01:00Z,Norway,Europe,2017,blood,
+ERR13600566,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:36:00Z,Norway,Europe,2009,urine,
+SRR28370688,-,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2024-03-18T09:36:00Z,uncalculated,uncalculated,missing,,Homo sapiens
+ERR13600806,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,feces,
+ERR13600806,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,feces,
+ERR13600806,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:40:00Z,Norway,Europe,2015,feces,
+SRR23384513,-,IncFIC(FII)_1,plasmidfinder,Klebsiella pneumoniae,2023-02-09T14:22:00Z,Australia,Oceania,16/12/2004,blood,Homo sapiens
+ERR13600468,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T00:58:00Z,Norway,Europe,2012,blood,
+SRR28587160,+,IncL/M(pOXA-48)_1_pOXA-48,plasmidfinder,Escherichia coli,2024-04-08T11:25:00Z,Switzerland,Europe,2022,missing,transconjugant
+ERR11861387,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-05T18:23:00Z,Netherlands,Europe,2021,feces,
+ERR11861387,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-05T18:23:00Z,Netherlands,Europe,2021,feces,
+ERR11861387,+,Col156_1,plasmidfinder,Escherichia coli,2023-12-05T18:23:00Z,Netherlands,Europe,2021,feces,
+ERR11861387,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-05T18:23:00Z,Netherlands,Europe,2021,feces,
+ERR11861387,+,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-05T18:23:00Z,Netherlands,Europe,2021,feces,
+ERR13600476,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:10:00Z,Norway,Europe,2013,blood,
+SRR27187019,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187019,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR27187019,+,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-12T14:45:00Z,Hungary,Europe,2021,blood culture,Homo sapiens
+SRR23384641,+,IncR_1,plasmidfinder,Klebsiella oxytoca,2023-02-09T14:23:00Z,Australia,Oceania,21/11/2016,blood,Homo sapiens
+ERR11861378,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-02T03:19:00Z,Netherlands,Europe,2021,feces,
+ERR11861370,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-02T12:47:00Z,Netherlands,Europe,2021,feces,
+ERR11861370,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-02T12:47:00Z,Netherlands,Europe,2021,feces,
+SRR23384577,-,IncR_1,plasmidfinder,Enterobacter hormaechei,2023-02-09T14:25:00Z,Australia,Oceania,04/06/2020,respiratory,Homo sapiens
+ERR13600480,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:00:00Z,Norway,Europe,2014,blood,
+ERR13600358,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:24:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+ERR13600358,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:24:00Z,Norway,Europe,2019,Caecal,Sus scrofa domesticus
+ERR11861375,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-05T10:08:00Z,Netherlands,Europe,2021,feces,
+ERR11861375,-,IncFII(pRSB107)_1_pRSB107,plasmidfinder,Escherichia coli,2023-12-05T10:08:00Z,Netherlands,Europe,2021,feces,
+ERR11861375,+,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-05T10:08:00Z,Netherlands,Europe,2021,feces,
+ERR11861375,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-05T10:08:00Z,Netherlands,Europe,2021,feces,
+ERR11861375,-,IncFIA_1,plasmidfinder,Escherichia coli,2023-12-05T10:08:00Z,Netherlands,Europe,2021,feces,
+ERR13600771,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:02:00Z,Norway,Europe,2015,feces,
+SRR27033031,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033031,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033031,-,Col156_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR27033031,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-04T06:10:00Z,Tunisia,Africa,2021,,
+SRR28370682,+,ColRNAI_1,plasmidfinder,Klebsiella pneumoniae,2024-03-18T09:36:00Z,uncalculated,uncalculated,missing,,Homo sapiens
+ERR13600420,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:36:00Z,Norway,Europe,2001,blood,
+ERR13600420,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:36:00Z,Norway,Europe,2001,blood,
+ERR13600420,-,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:36:00Z,Norway,Europe,2001,blood,
+SRR24952277,-,p0111_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952277,+,IncHI1B(CIT)_1_pNDM-CIT,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR24952277,+,IncN_1,plasmidfinder,Escherichia coli,2023-06-16T20:53:00Z,Japan,Asia,2010,missing,missing
+SRR27033032,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-04T06:11:00Z,Tunisia,Africa,2021,,
+ERR13600484,+,IncHI1B_1_pNDM-MAR,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:11:00Z,Norway,Europe,2014,blood,
+ERR13600484,+,IncFII_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:11:00Z,Norway,Europe,2014,blood,
+ERR13600484,+,IncFII_1,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:11:00Z,Norway,Europe,2014,blood,
+ERR13600484,+,IncFIB(Mar)_1_pNDM-Mar,plasmidfinder,Klebsiella pneumoniae,2024-09-01T01:11:00Z,Norway,Europe,2014,blood,
+ERR13600584,+,IncFIB(K)_1_Kpn3,plasmidfinder,Klebsiella pneumoniae,2024-08-31T01:30:00Z,Norway,Europe,2017,blood,
+ERR12342456,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-14T10:01:00Z,uncalculated,uncalculated,not collected,,
+ERR12342456,-,IncFIB(AP001918)_1,plasmidfinder,Escherichia coli,2023-12-14T10:01:00Z,uncalculated,uncalculated,not collected,,
+ERR12342456,-,IncFIC(FII)_1,plasmidfinder,Escherichia coli,2023-12-14T10:01:00Z,uncalculated,uncalculated,not collected,,
