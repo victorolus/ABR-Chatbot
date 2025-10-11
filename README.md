@@ -62,6 +62,10 @@ pip install chromadb pandas requests gradio
       └── README.md           # Documentation
 
 
+### Snippets
+<img width="1429" height="796" alt="Screenshot 2025-08-28 at 11 19 40" src="https://github.com/user-attachments/assets/1f95e7a8-15cc-4ed5-b799-cc13be7b7060" />
+
+
 ### Future Work
 - Integration with additional AMR databases.
 - Improved fine-tuning of Llama for bioinformatics-specific tasks.
